@@ -1,0 +1,18 @@
+digraph G {
+
+node[shape=record]
+
+		//Agregar Nodos Rama
+
+R366712642[label="<C1>|10|<C2>|20|<C3>"];
+R1829164700[label="5|9"];
+R2018699554[label="12|18"];
+R1311053135[label="25|65|92|99"];
+
+		//Agregar conexiones
+
+R366712642:C1->R1829164700;
+R366712642:C2->R2018699554;
+R366712642:C3->R1311053135;
+
+}
