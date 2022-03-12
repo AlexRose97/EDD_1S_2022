@@ -1,0 +1,52 @@
+[
+	{
+		"dpi": "2999062130101",
+		"nombre_cliente": "AUX EDD",
+		"password": "edd1s2022"
+	},
+	{
+		"dpi": "3999062130101",
+		"nombre_cliente": "AUX EDD2",
+		"password": "2edd1s2022"
+	},
+	{
+		"dpi": "4999062130101",
+		"nombre_cliente": "AUX EDD3",
+		"password": "3edd1s2022"
+	},
+	{
+		"dpi": "4999062130101",
+		"nombre_cliente": "AUX EDD4",
+		"password": "4edd1s2022"
+	},
+	{
+		"dpi": "6999062130101",
+		"nombre_cliente": "AUX EDD5",
+		"password": "5edd1s2022"
+	},
+	{
+		"dpi": "7999062130101",
+		"nombre_cliente": "AUX EDD6",
+		"password": "6edd1s2022"
+	},
+	{
+		"dpi": "8999062130101",
+		"nombre_cliente": "AUX EDD7",
+		"password": "7edd1s2022"
+	},
+	{
+		"dpi": "9999062130101",
+		"nombre_cliente": "AUX EDD8",
+		"password": "8edd1s2022"
+	},
+	{
+		"dpi": "2999062130101",
+		"nombre_cliente": "AUX EDD9",
+		"password": "9edd1s2022"
+	},
+	{
+		"dpi": "2299062130101",
+		"nombre_cliente": "AUX EDD10",
+		"password": "10edd1s2022"
+	}
+]
