@@ -1,0 +1,47 @@
+[
+	{
+		"dpi": "2999062130101",
+		"nombre_cliente": "Mario Bross",
+		"password": "1234"
+	},
+	{
+		"dpi": "3999062130101",
+		"nombre_cliente": "Sonic",
+		"password": "21234"
+	},
+	{
+		"dpi": "4999062130101",
+		"nombre_cliente": "AUX EDD",
+		"password": "1234"
+	},
+	{
+		"dpi": "6999062130101",
+		"nombre_cliente": "Lenguajes Formales y de Programacion",
+		"password": "1234"
+	},
+	{
+		"dpi": "7999062130101",
+		"nombre_cliente": "Estructura de datos",
+		"password": "1234"
+	},
+	{
+		"dpi": "8999062130101",
+		"nombre_cliente": "Compiladores 1",
+		"password": "1234"
+	},
+	{
+		"dpi": "9999062130101",
+		"nombre_cliente": "Compiladores 2",
+		"password": "1234"
+	},
+	{
+		"dpi": "2999062130101",
+		"nombre_cliente": "Sistemas operativos 1",
+		"password": "1234"
+	},
+	{
+		"dpi": "2299062130101",
+		"nombre_cliente": "Matematica Basica 1",
+		"password": "1234"
+	}
+]
